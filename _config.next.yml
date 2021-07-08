@@ -5,7 +5,7 @@
 
 # Allow to cache content generation.
 cache:
-  enable: true
+  enable: false
 
 # Remove unnecessary files after hexo generate.
 minify: true
@@ -74,7 +74,7 @@ menu:
   cd $HOME: / || fa fa-home
   cd ~/projects: /projects/ || fa fa-th
   cd ~/photobooth: /photobooth/ || fa fa-camera
-  cat about.txt: /about/ || fa fa-info-circle
+  cat about.txt: /about || fa fa-info-circle
   # tags: /tags/ || fa fa-tags
   # archives: /archives/ || fa fa-archive
   # categories: /categories/ || fa fa-th
