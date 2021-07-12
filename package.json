@@ -28,6 +28,6 @@
     "hexo-theme-next": "^8.6.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.10"
+    "nodemon": "^2.0.12"
   }
 }
